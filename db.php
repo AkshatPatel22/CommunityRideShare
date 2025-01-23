@@ -1,4 +1,10 @@
 <?php
+/**
+ * Copyright © 2025 Akshat Patel. All rights reserved.
+ * This file is part of Community Ride Share.
+ * Unauthorized copying of this file, via any medium, is strictly prohibited.
+ * For inquiries, contact: axathpatel@gmail.com
+ */
 // db.php - Database connection file
 $host = 'localhost:3306';
 $dbname = 'community_rideshare';
